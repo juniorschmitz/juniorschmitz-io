@@ -1,4 +1,5 @@
 ## Welcome mate :)
+The main idea of using this .io is to share the main projects (or more interesting ones) that i have been involved in recent times, and also, share news and interesting topics involving new technologies and thoughts.
 
 ## IoT Projects
 - [IoT monitoring (fall alert and panic button) using Esp8266](https://github.com/juniorschmitz/iot-monitoring-helper)
